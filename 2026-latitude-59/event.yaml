@@ -1,0 +1,23 @@
+name: Latitude59 2026
+organizer: latitude59
+date: 2026-05-21
+end_date: 2026-05-22
+location:
+  city: Tallinn
+  country: Estonia
+  address: Kultuurikatel, Kursi 3
+  latitude: 59.4443
+  longitude: 24.7507
+type: Conference
+online: false
+tags:
+- startup
+- technology
+- entrepreneurship
+url: https://latitude59.ee/
+price:
+  min_amount: 189
+  max_amount: 299
+  currency: EUR
+speakers: 100+
+language: English

@@ -1,0 +1,25 @@
+name: Odoo Experience 2026
+organizer: odoo
+date: 2026-09-24
+end_date: 2026-09-26
+location:
+  city: Brussels
+  country: Belgium
+  address: Brussels Expo, Place de Belgique 1
+  latitude: 50.8955
+  longitude: 4.3409
+type: Conference
+online: true
+tags:
+- erp
+- open source
+- python
+- business software
+- digital transformation
+url: https://www.odoo.com/event/odoo-experience-2026-9099/page/oxp26-be-introduction
+price:
+  min_amount: 0
+  max_amount: 560
+  currency: EUR
+speakers: 350+
+language: English
