@@ -1,0 +1,24 @@
+name: KubeCon + CloudNativeCon Europe 2026
+organizer: the-linux-foundation
+date: 2026-03-23
+end_date: 2026-03-26
+location:
+  city: Amsterdam
+  country: Netherlands
+  address: RAI Amsterdam, Europaplein 24
+type: Conference
+online: true
+tags:
+- kubernetes
+- cloud native
+- devops
+- infrastructure
+url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+price:
+  min_amount: 200
+  max_amount: 2278
+  currency: USD
+speakers:
+  number: 300
+  more: true
+language: English

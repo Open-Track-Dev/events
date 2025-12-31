@@ -1,0 +1,21 @@
+name: FOSDEM 2026
+organizer: fosdem-vzw
+date: 2026-01-31
+end_date: 2026-02-01
+location:
+  city: Brussels
+  country: Belgium
+  address: ULB Solbosch Campus, Avenue Franklin Roosevelt 50
+type: Conference
+online: true
+tags:
+- open source
+- linux
+- software development
+- community
+url: https://fosdem.org/2026/
+price: free
+speakers:
+  number: 800
+  more: true
+language: English

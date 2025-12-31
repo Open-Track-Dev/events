@@ -1,0 +1,25 @@
+name: MWC Barcelona 2026
+organizer: GSMA
+date: 2026-03-02
+end_date: 2026-03-05
+location:
+  city: Barcelona
+  country: Spain
+  address: Fira Gran Via, Av. Joan Carles I, 64
+type: Exhibition
+online: false
+tags:
+- mobile
+- 5G
+- iot
+- telecommunications
+- innovation
+url: https://www.mwcbarcelona.com/
+price:
+  min_amount: 799
+  max_amount: 4999
+  currency: EUR
+speakers:
+  number: 1000
+  more: true
+language: English
