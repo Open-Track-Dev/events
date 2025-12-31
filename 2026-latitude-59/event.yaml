@@ -6,8 +6,6 @@ location:
   city: Tallinn
   country: Estonia
   address: Kultuurikatel, Kursi 3
-  latitude: 59.4443
-  longitude: 24.7507
 type: Conference
 online: false
 tags:
@@ -19,5 +17,7 @@ price:
   min_amount: 189
   max_amount: 299
   currency: EUR
-speakers: 100+
+speakers:
+  number: 100
+  more: true
 language: English

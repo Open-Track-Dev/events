@@ -6,8 +6,6 @@ location:
   city: Brussels
   country: Belgium
   address: Brussels Expo, Place de Belgique 1
-  latitude: 50.8955
-  longitude: 4.3409
 type: Conference
 online: true
 tags:
@@ -21,5 +19,7 @@ price:
   min_amount: 0
   max_amount: 560
   currency: EUR
-speakers: 350+
+speakers:
+  number: 350
+  more: true
 language: English
