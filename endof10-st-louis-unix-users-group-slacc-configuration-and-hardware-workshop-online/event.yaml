@@ -1,0 +1,16 @@
+name: St. Louis Unix Users Group -- SLACC Configuration and Hardware Workshop (Online)
+organizer: endof10org
+date: '2025-12-04'
+url: https://www.slacc.org
+type: Conference
+online: false
+tags:
+- open source
+- community
+- software
+language: en
+end_date: '2025-12-04'
+location:
+  city: St. Louis
+  country: us
+  address: online

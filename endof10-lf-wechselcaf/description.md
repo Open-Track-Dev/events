@@ -1,0 +1,2 @@
+Wir installieren Linux zusammen.
+
