@@ -18,8 +18,8 @@ url: https://www.mwcbarcelona.com/
 price:
   min_amount: 799
   max_amount: 4999
-  currency: EUR
+  currency: eur
 speakers:
   number: 1000
   more: true
-language: English
+language: en

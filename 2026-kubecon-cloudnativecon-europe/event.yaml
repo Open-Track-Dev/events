@@ -17,8 +17,8 @@ url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 price:
   min_amount: 200
   max_amount: 2278
-  currency: USD
+  currency: usd
 speakers:
   number: 300
   more: true
-language: English
+language: en

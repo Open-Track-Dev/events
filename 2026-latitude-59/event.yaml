@@ -16,8 +16,8 @@ url: https://latitude59.ee/
 price:
   min_amount: 189
   max_amount: 299
-  currency: EUR
+  currency: eur
 speakers:
   number: 100
   more: true
-language: English
+language: en

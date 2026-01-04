@@ -18,8 +18,8 @@ url: https://www.odoo.com/event/odoo-experience-2026-9099/page/oxp26-be-introduc
 price:
   min_amount: 0
   max_amount: 560
-  currency: EUR
+  currency: eur
 speakers:
   number: 350
   more: true
-language: English
+language: en
