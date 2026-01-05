@@ -1,0 +1,1 @@
+Ukraine’s largest startup competition, connecting promising founders with opportunities for growth and investment.
