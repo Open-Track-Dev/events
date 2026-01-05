@@ -1,0 +1,24 @@
+name: IT Arena Warsaw 2026
+organizer: it-arena
+date: 2026-05-15
+end_date: 2026-05-16
+location:
+  city: Warsaw
+  country: Poland
+type: Conference
+online: false
+tags:
+- technology
+- startups
+- software engineering
+- product management
+- networking
+url: https://itarena.pl/
+price:
+  min_amount: 649
+  max_amount: 4999
+  currency: pln
+speakers:
+  number: 50
+  more: true
+language: en
